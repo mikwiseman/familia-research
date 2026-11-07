@@ -2,7 +2,7 @@
 name: familia-research
 description: Исследовать семейную историю и родственные связи по архивам мира, продолжать существующий семейный архив и строить дерево с источниками. Углублённые маршруты для Российской империи, СССР, постсоветских стран, еврейских общин и эмиграции; метрики, переписи, смерти, браки, военная и профессиональная история, API/MCP и сохранение сканов. Use for genealogy, ancestry, finding historical relatives and source-cited family trees, not general people-search or contact enrichment.
 metadata:
-  version: "1.1.3"
+  version: "1.1.4"
   source_reviewed: "2026-11-07"
 ---
 
