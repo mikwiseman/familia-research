@@ -1,0 +1,15 @@
+.DS_Store
+*.pyc
+__pycache__/
+
+# Keep research artifacts in the separate family project.
+originals/
+sources/
+research/
+trees/
+drafts/
+work/
+.env
+.env.*
+*.ged
+*.gedcom
