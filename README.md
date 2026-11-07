@@ -16,7 +16,7 @@ The skill and reference guides are written in Russian. The agent follows the use
 - Original scans, uncertain readings, competing identities, dependent sources, and searches with no result in a defined scope.
 - Existing family trees and source-preserving exports, with private details excluded from public outputs.
 
-Eleven reference guides include the [original 66-entry directory](references/sources-2026-11-07.md), [49 Jewish research routes](references/jewish-research.md), [67 additional worldwide routes](references/worldwide-sources.md), and [16 API/standard entries plus two documented MCP servers](references/apis-and-mcp.md). These lists overlap and include sections of larger portals; they are not a count of independent archives.
+Eleven reference guides include the [original 66-entry directory](references/sources-2026-11-07.md), [50 Jewish research routes](references/jewish-research.md), [70 additional worldwide routes](references/worldwide-sources.md), and [16 API/standard entries plus two documented MCP servers](references/apis-and-mcp.md). These lists overlap and include sections of larger portals; they are not a count of independent archives.
 
 Checks describe what was accessible on **7 November 2026**: a readable page, official pointer, browser interface, access error, or tested structured request. They do not promise that a person's records exist or are available online. Open Archives MCP returned 22 tools and real search results; a year filter was not honored, so the guide records this limitation. An Open Library query returned structured bibliographic data. Other integrations may require authorization or keys.
 
